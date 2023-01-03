@@ -98,8 +98,8 @@ h5{
         padding: 0;
     }
 }
-/*Responsive layout ---- when the screen is less than 705 px wide*/
-@media screen and (max-width: 705px){
+/*Responsive layout ---- when the screen is less than 435 px wide*/
+@media screen and (max-width: 435px){
     .nav a{
         float: none;
         width: 100%;
